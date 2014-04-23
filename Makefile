@@ -4,7 +4,7 @@
 # 	Makefile for building sss
 #
 # Dependencies:
-#   G++:		http://gcc.gnu.org/
+#	G++:		http://gcc.gnu.org/
 #	Allegro 5:	https://www.allegro.cc/
 #	pkg-config:	http://www.freedesktop.org/wiki/Software/pkg-config/
 #
